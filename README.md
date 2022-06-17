@@ -1,0 +1,1 @@
+# Bir-say-dizisindeki-tekrar-eden-ift-sayi
